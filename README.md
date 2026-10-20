@@ -24,6 +24,3 @@ Random Runner is a simple JavaScript simulation built using HTML and JavaScript.
 2. Open the project folder.
 3. Open `index.html` in your web browser.
 4. Watch the runner move according to random decisions.
-
-
-**Rushil Byroo**
